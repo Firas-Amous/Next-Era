@@ -17,5 +17,19 @@ $(function(){
 	$(".btn6").on("click",function(){
 		$("ul").append("<li>"+$("#h36").text()+"</li>")
 	})
-	$()
+	$(".btn7").on("click",function(){
+		$("ul").append("<li>"+$("#h37").text()+"</li>")
+	})
+	$(".btn8").on("click",function(){
+		$("ul").append("<li>"+$("#h38").text()+"</li>")
+	})
+	$(".btn9").on("click",function(){
+		$("ul").append("<li>"+$("#h39").text()+"</li>")
+	})
+	$(".btn10").on("click",function(){
+		$("ul").append("<li>"+$("#h3").text()+"</li>")
+	})
+	$(".btn11").on("click",function(){
+		$("ul").append("<li>"+$("#h36").text()+"</li>")
+	})
 })
